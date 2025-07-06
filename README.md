@@ -3,33 +3,37 @@
 ###
 
 <div align="center">
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3" />
-  </p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript" />
-    <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt="dotnetcore" />
-    <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap" />
-    <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind" />
-  </p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="60" alt="gitlab" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="mssql" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql" />
-  </p>
+
+<!-- Social Links -->
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=flat)](https://www.linkedin.com/in/mohammed-said-388732282/)
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=flat)](mailto:se3do.4work@gmail.com)
+[![WhatsApp](https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=flat)](https://wa.me/201150789589)
+[![GitHub](https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=flat)](https://github.com/Se3do)
+
+<!-- Tech Stack -->
+[![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://w3schools.com/cpp)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
+[![C](https://skillicons.dev/icons?i=c)](https://en.cppreference.com/w/c)
+[![Python](https://skillicons.dev/icons?i=py)](https://python.org)
+[![HTML](https://skillicons.dev/icons?i=html)](https://w3schools.com/html/)
+[![CSS](https://skillicons.dev/icons?i=css)](https://w3schools.com/css)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://w3schools.com/js)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![PHP](https://skillicons.dev/icons?i=php)](https://php.net)
+[![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![GitLab](https://skillicons.dev/icons?i=gitlab)](https://about.gitlab.com/)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![SQL Server](https://skillicons.dev/icons?i=azure)](https://learn.microsoft.com/en-us/sql/sql-server/)
+
 </div>
+
 
 
 ###
