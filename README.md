@@ -4,12 +4,6 @@
 
 <div align="center">
 
-<!-- Social Links -->
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=flat)](https://www.linkedin.com/in/mohammed-said-388732282/)
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=flat)](mailto:se3do.4work@gmail.com)
-[![WhatsApp](https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=flat)](https://wa.me/201150789589)
-[![GitHub](https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=flat)](https://github.com/Se3do)
-
 <!-- Tech Stack -->
 [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://w3schools.com/cpp)
