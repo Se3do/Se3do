@@ -15,6 +15,11 @@
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://w3schools.com/js)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![PHP](https://skillicons.dev/icons?i=php)](https://php.net)
+
+</div>
+
+<div align ="center">
+
 [![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/)
 [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
@@ -25,7 +30,7 @@
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 [![SQL Server](https://skillicons.dev/icons?i=azure)](https://learn.microsoft.com/en-us/sql/sql-server/)
-
+  
 </div>
 
 
