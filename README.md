@@ -22,6 +22,8 @@ Backend-focused software engineer based in **Cairo, Egypt** with experience acro
 
 ---
 
+<div align="center">
+
 ### 🛠️ Skills & Technologies
 
 #### 💻 Programming Languages
@@ -71,7 +73,11 @@ Backend-focused software engineer based in **Cairo, Egypt** with experience acro
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Testcontainers](https://img.shields.io/badge/Testcontainers-00A78E?style=for-the-badge&logo=testcontainers&logoColor=white)
 
+</div>
+
 ---
+
+<div align="center">
 
 ### 📊 GitHub Stats
 
@@ -81,12 +87,17 @@ Backend-focused software engineer based in **Cairo, Egypt** with experience acro
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Se3do&theme=tokyonight&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6E40&area=true&hide_border=true)](https://github.com/Se3do)
 
+</div>
+
 ---
+
+<div align="center">
 
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-said-388732282/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:se3do.4work@gmail.com)
 
-
 ![Snake animation](https://raw.githubusercontent.com/Se3do/Se3do/output/github-contribution-grid-snake-dark.svg)
+
+</div>
