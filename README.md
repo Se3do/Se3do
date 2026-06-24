@@ -89,3 +89,5 @@ Backend-focused software engineer based in **Cairo, Egypt** with experience acro
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:se3do.4work@gmail.com)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Se3do&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Se3do)
+
+![Snake animation](https://raw.githubusercontent.com/Se3do/Se3do/output/github-contribution-grid-snake-dark.svg)
