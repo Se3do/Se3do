@@ -17,12 +17,13 @@
 
 ### 👨‍💻 About Me
 
-Backend-focused software engineer based in **Cairo, Egypt** with experience across the full stack. Proficient in **TypeScript, C#, Python, Java** and modern frameworks including **NestJS, ASP.NET Core, Spring Boot**. Building reliable APIs, working with **PostgreSQL, MongoDB, Redis**, and deploying on **AWS/GCP**. Currently exploring distributed systems & cloud-native patterns.
+I'm a backend-focused Software Engineer passionate about building scalable, maintainable systems and contributing to open source. My primary stack includes **TypeScript**, **C#**, **Java**, and **Python**, with hands-on experience in **NestJS**, **ASP.NET Core**, **Spring Boot**, **PostgreSQL**, **Redis**, and cloud platforms like **AWS** and **GCP**.
 
-- 🔭 Currently building backend systems with NestJS & ASP.NET Core
-- 🌱 Exploring cloud-native patterns & distributed systems
-- 💼 Available for collaboration on open source projects
-- ⚡ Fun fact: Been writing code since 2020 — started with C++, never looked back
+I'm particularly interested in **backend architecture**, **distributed systems**, **cloud-native applications**, and **developer tooling**, and I'm always looking for opportunities to learn through real-world projects and open-source contributions.
+
+- 🚀 Building backend services with **NestJS** & **ASP.NET Core**
+- 🌱 Learning **Distributed Systems**, **Cloud Architecture**, and **System Design**
+- 🤝 Open to collaborating on backend and open-source projects
 
 ---
 
