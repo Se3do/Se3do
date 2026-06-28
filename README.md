@@ -1,4 +1,4 @@
-<h3 align="center"> 👨‍💻 About Me </h3>
+<h1 align="center"> Hi 👋, I'm Mohammed </h1>
 
 <h3 align="center"> SWE @ iConcierge | Ex Intern @ Dell Technologies | Backend Developer | GDGoC HUN ’25 Lead | ICPC HUN Community Lead | CP Coach </h3>
 
