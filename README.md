@@ -4,7 +4,7 @@
 
 I'm a backend-focused Software Engineer passionate about building scalable, maintainable systems and contributing to open source. My primary stack includes **TypeScript**, **C#**, **Java**, and **Python**, with hands-on experience in **NestJS**, **ASP.NET Core**, **Spring Boot**, **PostgreSQL**, **Redis**, and cloud platforms like **AWS** and **GCP**.
 
-I'm particularly interested in **backend architecture**, **distributed systems**, **cloud-native applications**, and **developer tooling**, and I'm always looking for opportunities to learn through real-world projects and open-source contributions.
+I'm particularly interested in **Cloud-native patterns** & **Event-driven systems**, and I'm always looking for opportunities to learn through real-world projects and open-source contributions.
 
 - 🚀 Building backend services with **NestJS** & **ASP.NET Core**
 - 🌱 Learning **Distributed Systems**, **Cloud Architecture**, and **System Design**
