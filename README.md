@@ -64,7 +64,7 @@ I'm particularly interested in **backend architecture**, **distributed systems**
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/@dev.icons/core@latest/export-files/icons/nestjs.svg" alt="nestjs" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/>
@@ -82,7 +82,7 @@ I'm particularly interested in **backend architecture**, **distributed systems**
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
   </a>
   <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/@dev.icons/core@latest/export-files/icons/supabase-icon.svg" alt="supabase" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
