@@ -117,7 +117,7 @@ I'm particularly interested in **backend architecture**, **distributed systems**
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Se3do&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github&cache_seconds=0)](https://github.com/Se3do) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Se3do&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E40&currStreakLabel=58A6FF&cache_seconds=0)](https://github.com/Se3do) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Se3do&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&cache_seconds=0)](https://github.com/Se3do)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Se3do&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github&count_private=true&hide=issues,contribs&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/Se3do) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Se3do&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E40&currStreakLabel=58A6FF&cache_seconds=0)](https://github.com/Se3do) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Se3do&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&cache_seconds=0)](https://github.com/Se3do)
 
 
 </div>
