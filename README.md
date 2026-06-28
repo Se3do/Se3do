@@ -16,9 +16,9 @@ I'm particularly interested in **backend architecture**, **distributed systems**
 
 ---
 
-<div align="center">
-
 ### 🛠️ Languages and Tools
+
+<div align="center">
 
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
