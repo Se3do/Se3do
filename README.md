@@ -2,7 +2,7 @@
 
 <h3 align="center"> SWE @ iConcierge | Ex Intern @ Dell Technologies | Backend Developer | GDGoC HUN ’25 Lead | ICPC HUN Community Lead | CP Coach </h3>
 
-I'm a backend-focused Software Engineer passionate about building scalable, maintainable systems and contributing to open source. My primary stack includes **TypeScript**, **C#**, **Java**, and **Python**, with hands-on experience in **NestJS**, **ASP.NET Core**, **Spring Boot**, **PostgreSQL**, **Redis**, and cloud platforms like **AWS** and **GCP**.
+I'm a backend-focused Software Engineer passionate about building scalable, maintainable systems and contributing to open source. My primary stack includes **TypeScript**, **C#**, **Java**, and **Python**, with experience in **NestJS**, **ASP.NET Core**, **Spring Boot**, **PostgreSQL**, **Redis**, and cloud platforms like **AWS** and **GCP**.
 
 I'm particularly interested in **backend architecture**, **distributed systems**, **cloud-native applications**, and **developer tooling**, and I'm always looking for opportunities to learn through real-world projects and open-source contributions.
 
