@@ -1,20 +1,3 @@
-<div align="center">
-
-## Hi there 👋
-
-### I'm **Mohammed Said**
-
-#### 🚀 Software Engineer · Backend Developer
-
-📍 Cairo, Egypt
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-said-388732282/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:se3do.4work@gmail.com)
-
-</div>
-
----
-
 ### 👨‍💻 About Me
 
 I'm a backend-focused Software Engineer passionate about building scalable, maintainable systems and contributing to open source. My primary stack includes **TypeScript**, **C#**, **Java**, and **Python**, with hands-on experience in **NestJS**, **ASP.NET Core**, **Spring Boot**, **PostgreSQL**, **Redis**, and cloud platforms like **AWS** and **GCP**.
@@ -24,6 +7,9 @@ I'm particularly interested in **backend architecture**, **distributed systems**
 - 🚀 Building backend services with **NestJS** & **ASP.NET Core**
 - 🌱 Learning **Distributed Systems**, **Cloud Architecture**, and **System Design**
 - 🤝 Open to collaborating on backend and open-source projects
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-said-388732282/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:se3do.4work@gmail.com)
 
 ---
 
