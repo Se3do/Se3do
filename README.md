@@ -7,9 +7,12 @@ I'm particularly interested in **backend architecture**, **distributed systems**
 - 🚀 Building backend services with **NestJS** & **ASP.NET Core**
 - 🌱 Learning **Distributed Systems**, **Cloud Architecture**, and **System Design**
 - 🤝 Open to collaborating on backend and open-source projects
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-said-388732282/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:se3do.4work@gmail.com)
+
+</div>
 
 ---
 
