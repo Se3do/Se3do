@@ -115,7 +115,7 @@ I'm particularly interested in **backend architecture**, **distributed systems**
 ### 📊 GitHub Stats
 
 ![Stats](./profile/stats.svg)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Se3do&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E40&currStreakLabel=58A6FF)](https://github.com/Se3do)
+![Streak](./profile/streak.svg)
 ![Top Languages](./profile/top-langs.svg)
 
 
