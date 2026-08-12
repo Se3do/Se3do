@@ -18,26 +18,8 @@ I'm particularly interested in **backend architecture**, **distributed systems**
 
 ---
 
-### 🛠️ Languages and Tools
-
-<div align="center">
-
-#### 💻 Languages
-[![My Skills](https://skillicons.dev/icons?i=ts,js,cs,java,py,cpp&theme=dark)](https://skillicons.dev)
-
-#### 🔧 Backend & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=dotnet,nodejs,express,spring&theme=dark)](https://skillicons.dev)
-
-#### 🗄️ Databases
-[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongodb,sqlite,supabase,firebase&theme=dark)](https://skillicons.dev)
-
-#### 🎨 Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark)](https://skillicons.dev)
-
-#### ☁️ Cloud & Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,gcp,linux,git,postman&theme=dark)](https://skillicons.dev)
-
-</div>
+## 💻 Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=ts,js,cs,java,py,cpp,dotnet,nodejs,express,spring,postgres,redis,mongodb,sqlite,supabase,firebase,react,nextjs,tailwind,html,css,docker,aws,gcp,linux,git,postman)](https://skillicons.dev)
 
 ---
 
