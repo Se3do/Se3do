@@ -25,21 +25,21 @@ I'm particularly interested in **backend architecture**, **distributed systems**
 <td align="center" style="border: 1px solid #30363d; padding: 12px;">
 
 <strong>Backend &amp; Frameworks</strong><br><br>
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,spring" width="50"><br><br>
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,spring"><br><br>
 <em>ASP.NET Core, NestJS, REST APIs, Microservices</em>
 
 </td>
 <td align="center" style="border: 1px solid #30363d; padding: 12px;">
 
 <strong>Testing &amp; Performance</strong><br><br>
-<img src="https://skillicons.dev/icons?i=postman,jest,junit,pytest" width="50"><br><br>
+<img src="https://skillicons.dev/icons?i=postman,jest,junit,pytest"><br><br>
 <em>API Testing, Unit Testing, Test-Driven Development</em>
 
 </td>
 <td align="center" style="border: 1px solid #30363d; padding: 12px;">
 
 <strong>Infrastructure &amp; DevOps</strong><br><br>
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux,git" width="50"><br><br>
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux,git"><br><br>
 <em>CI/CD, Cloud Fundamentals, Containerization</em>
 
 </td>
@@ -48,21 +48,21 @@ I'm particularly interested in **backend architecture**, **distributed systems**
 <td align="center" style="border: 1px solid #30363d; padding: 12px;">
 
 <strong>Databases &amp; Cache</strong><br><br>
-<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,sqlite,supabase,firebase" width="50"><br><br>
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,sqlite,supabase,firebase"><br><br>
 <em>SQL, NoSQL, ACID, Caching</em>
 
 </td>
 <td align="center" style="border: 1px solid #30363d; padding: 12px;">
 
 <strong>Frontend &amp; UI</strong><br><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" width="50"><br><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"><br><br>
 <em>Responsive Design, SSR, UI Components</em>
 
 </td>
 <td align="center" style="border: 1px solid #30363d; padding: 12px;">
 
 <strong>Core Engineering</strong><br><br>
-<img src="https://skillicons.dev/icons?i=ts,js,cs,java,py,cpp" width="50"><br><br>
+<img src="https://skillicons.dev/icons?i=ts,js,cs,java,py,cpp"><br><br>
 <em>Data Structures, Algorithms, OOP, Clean Architecture</em>
 
 </td>
