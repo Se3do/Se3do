@@ -32,8 +32,11 @@ I'm particularly interested in **backend architecture**, **distributed systems**
 <td align="center" style="border: 1px solid #30363d; padding: 12px;">
 
 <strong>Testing &amp; Performance</strong><br><br>
-<img src="https://skillicons.dev/icons?i=postman,jest,junit,pytest"><br><br>
-<em>API Testing, Unit Testing, Test-Driven Development</em>
+<img src="https://skillicons.dev/icons?i=postman,jest" width="48">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="48">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="48">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/k6/k6-original.svg" width="48"><br><br>
+<em>API Testing, Unit Testing, Load Testing</em>
 
 </td>
 <td align="center" style="border: 1px solid #30363d; padding: 12px;">
