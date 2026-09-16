@@ -39,7 +39,7 @@ I'm particularly interested in **backend architecture**, **distributed systems**
 <td align="center" valign="top" style="border: 1px solid #30363d; padding: 12px;">
 
 <strong>Infrastructure &amp; DevOps</strong><br><br>
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux,git,githubactions"><br><br>
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux,githubactions"><br><br>
 <em>CI/CD, Cloud, Containerization</em>
 
 </td>
