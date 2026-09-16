@@ -22,21 +22,21 @@ I'm particularly interested in **backend architecture**, **distributed systems**
 
 <table>
 <tr>
-<td align="center" style="border: 1px solid #30363d; padding: 12px;">
+<td align="center" valign="top" style="border: 1px solid #30363d; padding: 12px;">
 
 <strong>Backend &amp; Frameworks</strong><br><br>
 <img src="https://skillicons.dev/icons?i=dotnet,spring,nestjs"><br><br>
 <em>ASP.NET Core, Spring, MVC, JPA, EF Core, Security, SignalR</em>
 
 </td>
-<td align="center" style="border: 1px solid #30363d; padding: 12px;">
+<td align="center" valign="top" style="border: 1px solid #30363d; padding: 12px;">
 
 <strong>Testing &amp; Performance</strong><br><br>
 <img src="https://skillicons.dev/icons?i=postman,jest"><br><br>
 <em>API Testing, Unit Testing, Load Testing</em>
 
 </td>
-<td align="center" style="border: 1px solid #30363d; padding: 12px;">
+<td align="center" valign="top" style="border: 1px solid #30363d; padding: 12px;">
 
 <strong>Infrastructure &amp; DevOps</strong><br><br>
 <img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux,git,githubactions"><br><br>
@@ -45,21 +45,21 @@ I'm particularly interested in **backend architecture**, **distributed systems**
 </td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #30363d; padding: 12px;">
+<td align="center" valign="top" style="border: 1px solid #30363d; padding: 12px;">
 
 <strong>Databases &amp; Cache</strong><br><br>
 <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb"><br><br>
 <em>SQL, NoSQL, ACID, MVCC, Caching</em>
 
 </td>
-<td align="center" style="border: 1px solid #30363d; padding: 12px;">
+<td align="center" valign="top" style="border: 1px solid #30363d; padding: 12px;">
 
 <strong>Frontend &amp; UI</strong><br><br>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css"><br><br>
 <em>Responsive Design, SSR, UI Components</em>
 
 </td>
-<td align="center" style="border: 1px solid #30363d; padding: 12px;">
+<td align="center" valign="top" style="border: 1px solid #30363d; padding: 12px;">
 
 <strong>Core Engineering</strong><br><br>
 <img src="https://skillicons.dev/icons?i=ts,js,cs,java,py,cpp"><br><br>
@@ -75,9 +75,9 @@ I'm particularly interested in **backend architecture**, **distributed systems**
 
 ### 📊 GitHub Stats
 
-![Stats](./profile/stats.svg)<br>
-![Streak](./profile/streak.svg)<br>
-![Top Languages](./profile/top-langs.svg)
+![Stats](./profile/stats.svg)<br><br>
+<img src="./profile/streak.svg">
+<img src="./profile/top-langs.svg">
 
 
 </div>
