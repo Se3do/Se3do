@@ -32,7 +32,7 @@ I'm particularly interested in **backend architecture**, **distributed systems**
 <td align="center" style="border: 1px solid #30363d; padding: 12px;">
 
 <strong>Testing &amp; Performance</strong><br><br>
-<img src="https://skillicons.dev/icons?i=postman,jest" width="48" height="48"><br><br>
+<img src="https://skillicons.dev/icons?i=postman,jest"><br><br>
 <em>API Testing (Postman, Swagger), Unit Testing (Jest, JUnit), Load Testing (k6)</em>
 
 </td>
