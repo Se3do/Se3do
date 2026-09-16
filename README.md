@@ -29,7 +29,7 @@ I'm particularly interested in **backend architecture**, **distributed systems**
 </td>
 <td width="36%" align="center" valign="top" style="border: 1px solid #30363d; padding: 12px;"><strong>Testing &amp; Performance</strong><br><br>
 <img src="https://skillicons.dev/icons?i=postman,jest"><br><br>
-<em>API Testing, Unit Testing, Load Testing</em>
+<em>API Testing · Unit Testing · Load Testing</em>
 
 </td>
 <td width="33%" align="center" valign="top" style="border: 1px solid #30363d; padding: 12px;">
@@ -43,12 +43,12 @@ I'm particularly interested in **backend architecture**, **distributed systems**
 <tr>
 <td width="30%" align="center" valign="top" style="border: 1px solid #30363d; padding: 12px;"><strong>Databases &amp; Cache</strong><br><br>
 <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb"><br><br>
-<em>SQL, NoSQL, ACID, MVCC, Caching</em>
+<em>SQL · NoSQL · ACID · MVCC · Caching</em>
 
 </td>
 <td width="36%" align="center" valign="top" style="border: 1px solid #30363d; padding: 12px;"><strong>Frontend &amp; UI</strong><br><br>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html"><br><br>
-<em>Responsive Design, SSR, UI Components</em>
+<em>Responsive Design · SSR · UI Components</em>
 
 </td>
 <td width="33%" align="center" valign="top" style="border: 1px solid #30363d; padding: 12px;">
