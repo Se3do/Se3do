@@ -36,7 +36,7 @@ I'm particularly interested in **backend architecture**, **distributed systems**
 
 <strong>Infrastructure &amp; DevOps</strong><br><br>
 <img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux,githubactions"><br><br>
-<em>CI/CD, Cloud, Containerization</em>
+<em>CI/CD · Cloud · Containerization · Linux</em>
 
 </td>
 </tr>
