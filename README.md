@@ -75,8 +75,8 @@ I'm particularly interested in **backend architecture**, **distributed systems**
 
 ### 📊 GitHub Stats
 
-![Stats](./profile/stats.svg)
-![Streak](./profile/streak.svg)
+![Stats](./profile/stats.svg)<br>
+![Streak](./profile/streak.svg)<br>
 ![Top Languages](./profile/top-langs.svg)
 
 
