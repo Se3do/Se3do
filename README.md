@@ -24,7 +24,7 @@ I'm particularly interested in **backend architecture**, **distributed systems**
 <tr>
 <td width="30%" align="center" valign="top" style="border: 1px solid #30363d; padding: 12px;"><strong>Backend &amp; Frameworks</strong><br><br>
 <img src="https://skillicons.dev/icons?i=dotnet,spring,nestjs"><br><br>
-<em>ASP.NET Core, Spring, MVC, JPA, EF Core, Security, SignalR</em>
+<em>REST APIs · MVC · ORM · Authentication · Real-Time Systems</em>
 
 </td>
 <td width="36%" align="center" valign="top" style="border: 1px solid #30363d; padding: 12px;"><strong>Testing &amp; Performance</strong><br><br>
