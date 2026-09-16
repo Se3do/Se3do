@@ -55,14 +55,14 @@ I'm particularly interested in **backend architecture**, **distributed systems**
 <td align="center" valign="top" style="border: 1px solid #30363d; padding: 12px;">
 
 <strong>Frontend &amp; UI</strong><br><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css"><br><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html"><br><br>
 <em>Responsive Design, SSR, UI Components</em>
 
 </td>
 <td align="center" valign="top" style="border: 1px solid #30363d; padding: 12px;">
 
 <strong>Core Engineering</strong><br><br>
-<img src="https://skillicons.dev/icons?i=ts,js,cs,java,py,cpp"><br><br>
+<img src="https://skillicons.dev/icons?i=ts,cs,java,py,cpp"><br><br>
 <em>Data Structures, Algorithms, OOP, Clean Architecture</em>
 
 </td>
