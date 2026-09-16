@@ -55,7 +55,7 @@ I'm particularly interested in **backend architecture**, **distributed systems**
 
 <strong>Core Engineering</strong><br><br>
 <img src="https://skillicons.dev/icons?i=ts,cs,java,py,cpp"><br><br>
-<em>Data Structures, Algorithms, OOP, Clean Architecture</em>
+<em>Data Structures · Algorithms · OOP · Design Patterns · Clean Architecture</em>
 
 </td>
 </tr>
