@@ -18,7 +18,7 @@ I'm particularly interested in **backend architecture**, **distributed systems**
 
 ---
 
-## 🛠️ The Full Technical Stack
+## 🛠️ Technical Stack
 
 <table>
 <tr>
