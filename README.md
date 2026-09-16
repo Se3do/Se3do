@@ -25,22 +25,22 @@ I'm particularly interested in **backend architecture**, **distributed systems**
 <td align="center" style="border: 1px solid #30363d; padding: 12px;">
 
 <strong>Backend &amp; Frameworks</strong><br><br>
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,spring"><br><br>
-<em>ASP.NET Core, NestJS, REST APIs, Microservices</em>
+<img src="https://skillicons.dev/icons?i=dotnet,spring,nestjs"><br><br>
+<em>ASP.NET Core, Spring, MVC, JPA, EF Core, Security, SignalR</em>
 
 </td>
 <td align="center" style="border: 1px solid #30363d; padding: 12px;">
 
 <strong>Testing &amp; Performance</strong><br><br>
 <img src="https://skillicons.dev/icons?i=postman,jest"><br><br>
-<em>API Testing (Postman, Swagger), Unit Testing (Jest, JUnit), Load Testing (k6)</em>
+<em>API Testing, Unit Testing, Load Testing</em>
 
 </td>
 <td align="center" style="border: 1px solid #30363d; padding: 12px;">
 
 <strong>Infrastructure &amp; DevOps</strong><br><br>
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux,git"><br><br>
-<em>CI/CD, Cloud Fundamentals, Containerization</em>
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux,git,githubactions"><br><br>
+<em>CI/CD, Cloud, Containerization</em>
 
 </td>
 </tr>
@@ -48,14 +48,14 @@ I'm particularly interested in **backend architecture**, **distributed systems**
 <td align="center" style="border: 1px solid #30363d; padding: 12px;">
 
 <strong>Databases &amp; Cache</strong><br><br>
-<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,supabase"><br><br>
-<em>SQL, NoSQL, ACID, Caching</em>
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb"><br><br>
+<em>SQL, NoSQL, ACID, MVCC, Caching</em>
 
 </td>
 <td align="center" style="border: 1px solid #30363d; padding: 12px;">
 
 <strong>Frontend &amp; UI</strong><br><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"><br><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css"><br><br>
 <em>Responsive Design, SSR, UI Components</em>
 
 </td>
