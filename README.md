@@ -48,7 +48,7 @@ I'm particularly interested in **backend architecture**, **distributed systems**
 <td align="center" style="border: 1px solid #30363d; padding: 12px;">
 
 <strong>Databases &amp; Cache</strong><br><br>
-<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,sqlite,supabase,firebase"><br><br>
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,supabase"><br><br>
 <em>SQL, NoSQL, ACID, Caching</em>
 
 </td>
